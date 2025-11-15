@@ -1,14 +1,44 @@
-# Bhavesh Padharia Portfolio
 
-Hi, I'm Bhavesh Padharia, a passionate Senior Data Scientist with expertise in Python, Generative AI Machine Learning , Deep Learning, Artificial Intelligence & Cloud Technology. Welcome to my GitHub portfolio!
+# Bhavesh Padharia — Senior Data Scientist 
 
-### Skills
-- **Languages:** Python
-- **Frameworks:** Flask, Streamlit, Django
-- **Tools:** Git, Tableau & PowerBI
+Welcome — I'm Bhavesh Padharia. AI/ML professional with 8 years of experience delivering end-to-end machine learning and automation solutions. I currently work on large-scale AI programs using agentic frameworks like LangChain and MCP, building intelligent copilots, and deploying scalable APIs with FastAPI. My background spans LLM-based systems, RAG models, OCR, and predictive analytics across BFSI and Supply Chain domains — improving efficiency and accuracy in real-world workflows. I also  manage Azure-based deployments, and focus on transforming AI research into production-ready, high-impact solutions.
 
-### Contact
+- Website: https://padhariabhavesh.github.io/
+- LinkedIn: https://www.linkedin.com/in/bhaveshpadharia/
 
-- **LinkedIn:** [ Bhavesh Padharia ](https://www.linkedin.com/in/bhaveshpadharia/)
+## About
+
+I am a Senior Data Scientist with 8+ years of experience building predictive models, NLP pipelines,
+and scalable ML services. I focus on robust engineering, reproducible experiments, and pragmatic
+deployments that deliver measurable impact (efficiency gains, automation, and better decisioning).
+
+## Core Skills
+
+#### Machine Learning & AI : 
+Supervised/Unsupervised learning, XGBoost, Random Forest, Deep Learning (TensorFlow, PyTorch), NLP (BERT, GPT), LLM architectures, Retrieval-Augmented Generation (RAG),prompt engineering and agentic systems.
+
+#### Programming & Tools: 
+Python, FastAPI, SQL, Docker, Git, CI/CD, Jupyter, pandas, scikit-learn
+
+#### Cloud & Infra: 
+Azure, AWS, orchestration
+
+#### Data Engineering: 
+ETL pipelines, feature engineering, data quality 
+
+#### Leadership: 
+Technical design, stakeholder communication, mentoring and project roadmaps
+
+
+
+
+## Contact
+ Email: Use the contact form on the website or reach out via LinkedIn above.
+
+---
+
+
+
+
 
 
